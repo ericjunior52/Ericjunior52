@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I just finished Mr. Dominik's assignment due on 31st October.
 
 <!--
 **ericjunior52/Ericjunior52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
